@@ -12,6 +12,8 @@ Engineered relevant features to enhance model performance and interpretability.
 Implemented a linear regression model and fine-tuned its parameters to optimize predictive accuracy.
 Evaluated model performance using appropriate metrics and visualizations, demonstrating a 73% accuracy score.
 Documented the project thoroughly with clear explanations of methodologies, results, and insights gained.
+
+
 Technologies Used:
 
 Python
@@ -19,4 +21,6 @@ Pandas
 Scikit-learn
 Matplotlib
 Jupyter Notebook
+
+
 This project showcases my ability to apply machine learning techniques to real-world problems, demonstrating proficiency in data preprocessing, feature engineering, model selection, and evaluation.
